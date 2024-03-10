@@ -1,1 +1,1 @@
-[Academic work] Intensity thresholding using Otsu's method
+## [Academic work] Intensity thresholding using Otsu's method
